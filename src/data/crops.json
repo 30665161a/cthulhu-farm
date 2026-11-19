@@ -1,0 +1,33 @@
+[
+  {
+    "id": "crop_pumpkin_01",
+    "name": "普通南瓜",
+    "type": "Normal",
+    "sell_price_day": 50,
+    "sell_price_night": 0,
+    "san_cost": 0,
+    "harvest_yield": 1,
+    "description": "镇长最喜欢的南瓜，白天卖掉换金币。"
+  },
+  {
+    "id": "crop_eye_666",
+    "name": "不可名状的眼球",
+    "type": "Eldritch",
+    "sell_price_day": 0,
+    "sell_price_night": 150,
+    "san_cost": -15,
+    "harvest_yield": 3,
+    "effect": "harvest_trigger_hallucination",
+    "description": "在夜晚的农场里长出的诡异作物，能换取骨币，但会污染你的精神。"
+  },
+  {
+    "id": "crop_tentacle_02",
+    "name": "触手草",
+    "type": "Eldritch",
+    "sell_price_day": 10,
+    "sell_price_night": 80,
+    "san_cost": -5,
+    "harvest_yield": 2,
+    "description": "白天也能卖一点钱，但最好还是留到晚上献祭。"
+  }
+]
