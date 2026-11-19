@@ -1,0 +1,23 @@
+{
+  "name": "cthulhu-farm",
+  "version": "0.1.0",
+  "description": "A Stardew Valley meets Eldritch Horror indie game.",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "jest"
+  },
+  "keywords": [
+    "indiegame",
+    "cthulhu",
+    "stardew-valley",
+    "typescript"
+  ],
+  "author": "Indie Dev",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.1",
+    "@types/node": "^20.0.0"
+  }
+}
